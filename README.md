@@ -6,7 +6,7 @@ The plan is simple. Have a pan and tilt device hooked to a camera and a water pu
 
 This is a work in progress, I will continue to update this page as I add functionalities to this project.
 
-![image](https://github.com/SaarAvr/The-Pigeonator/assets/105448204/d2e69fe8-9a73-4306-8811-62d1e0c69d14)
+![image](https://github.com/SaarAvr/The-Pigeonator/assets/105448204/7ebafa80-379e-4ac2-ba43-63431b10cbc4)
 This is the setup so far. You can see the pan and tilt mechanism I 3d printed, connected to 2 step motors. other than that basic connections. Water turret mechanism to be added.
 
 

@@ -11,7 +11,7 @@ This is the setup so far. You can see the pan and tilt mechanism I 3d printed, c
 
 
 
-Disclaimer: most of the code for this project so far comes from a great youtube by Edje Electronics: https://www.youtube.com/watch?v=XZ7FYAMCc4M. I followed his instruction on how to train the neural networks, and used pigeon databases I found online plus images I took myself
+Disclaimer: most of the code for this project so far comes from a great youtube guide by Edje Electronics: https://www.youtube.com/watch?v=XZ7FYAMCc4M. I followed his instructions on how to train the neural networks, and used pigeon databases I found online plus images I took myself.
 
 
 

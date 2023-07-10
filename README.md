@@ -1,4 +1,4 @@
-# Pigeonator
+# The Pigeonator
 
 Pigeons at a balcony are a nuisance that have yet to face a real solution. Scarecrows dont work for a long time, spikes are taking the fun out of the balcony, and short of standing there all day scaring them away there isnt much we can do. Enter The Pigeonator. This device should pose the ultimate counter against the flying menace.
 

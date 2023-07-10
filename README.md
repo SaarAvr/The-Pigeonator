@@ -9,7 +9,8 @@ This is a work in progress, I will continue to update this page as I add functio
 ![image](https://github.com/SaarAvr/The-Pigeonator/assets/105448204/7ebafa80-379e-4ac2-ba43-63431b10cbc4)
 This is the setup so far. You can see the pan and tilt mechanism I 3d printed, connected to 2 step motors. other than that basic connections. Water turret mechanism to be added.
 
-
+![7s3jhy](https://github.com/SaarAvr/The-Pigeonator/assets/105448204/dc889951-5514-415e-a3f3-a19cc09158e2)
+Here you can see a quick demonstration of the tracking program in action.
 
 Disclaimer: most of the code for this project so far comes from a great youtube guide by Edje Electronics: https://www.youtube.com/watch?v=XZ7FYAMCc4M. I followed his instructions on how to train the neural networks, and used pigeon databases I found online plus images I took myself.
 
